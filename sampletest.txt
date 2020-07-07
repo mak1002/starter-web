@@ -1,0 +1,7 @@
+The Day-to-Day:
+• Manage Hadoop and Spark clusters on Azure
+• Monitor cluster health, performance and security
+• Big Data maintenance including: adding or removing nodes, system backup, monitor performance, tune of Hadoop and Spark clusters, MapReduce jobs, Spark jobs, ETL jobs, etc.
+• Play a key role in capacity planning, Azure cost monitoring and optimization
+• Evaluate new releases of Cloudera platform, provide upgrade recommendations and impact analysis
+• Consult with project team to expand big data functionalities by implementing additional Hadoop and Spark ecosystem components to meet business needs.
