@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+  Aneel koundinya
+  koundiny10@gmail.com
+  devops adminstartor
 
 # THANKS
 
@@ -15,3 +17,5 @@
     jQuery, Modernizr,Ajax
 	
 	this is new query written for automation
+	
+	
