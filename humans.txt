@@ -13,3 +13,5 @@
 
     HTML5, CSS3,Angular
     jQuery, Modernizr,Ajax
+	
+	this is new query written for automation
