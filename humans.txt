@@ -6,6 +6,8 @@
   Aneel koundinya
   koundiny10@gmail.com
   devops adminstartor
+  
+  adding important nots on git stash
 
 # THANKS
 
